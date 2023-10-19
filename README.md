@@ -184,4 +184,5 @@ Type your question in the input box to ask and click send.
 ![image](https://github.com/evexuxi/KBQA-System/assets/122734805/e96eb8b1-5ad5-46cf-a3c0-a55453f41f3d)
 
 You can get the answer, and it will return similar questions as an alternative, if necessary, you can directly click on the question you want to ask, it will further return the answer.
+
 ![image](https://github.com/evexuxi/KBQA-System/assets/122734805/8b1bf599-f104-4f87-abe0-3a0a00ad1610)
